@@ -1,6 +1,6 @@
 import React, { useContext } from 'react'
-import { userDataContext } from '../context/userContext'
-import UserContext from "../context/userContext";
+import { userDataContext } from '../context/UserContext'
+
 
 
 
