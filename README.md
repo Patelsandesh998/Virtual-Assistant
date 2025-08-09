@@ -33,7 +33,7 @@ src/
 
 # 1. Clone the repository
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone repo https://github.com/Patelsandesh998/Virtual-Assistant.git
 cd your-repo-name
 
 # 2. Install dependencies
