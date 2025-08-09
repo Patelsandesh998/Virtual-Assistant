@@ -33,8 +33,9 @@ src/
 
 # 1. Clone the repository
 
-git clone repo https://github.com/Patelsandesh998/Virtual-Assistant.git
-cd your-repo-name
+git clone https://github.com/Patelsandesh998/Virtual-Assistant.git
+
+cd Virtual-Assistant
 
 # 2. Install dependencies
 
